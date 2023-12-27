@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #2f2f30;
   margin: 0;
   padding: 0;
 }
@@ -23,7 +23,7 @@ textarea {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #a8a7a7;
   color: #fff;
   padding: 10px;
   border: none;
@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #999797;
 }
 
 #web_footer {
